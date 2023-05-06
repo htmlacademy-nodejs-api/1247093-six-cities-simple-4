@@ -1,7 +1,7 @@
 # Личный проект «Шесть городов (простой)»
 
 * Студент: [Serafima Mokrousova](https://up.htmlacademy.ru/nodejs-api/4/user/1247093).
-* Наставник: `Неизвестно`.
+* Наставник: [Gleb Kletskovg](https://htmlacademy.ru/profile/id1487865).
 
 ---
 
