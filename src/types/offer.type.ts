@@ -1,15 +1,21 @@
 
 import { Category } from './category.type.js';
-import { OfferType } from './offer-type.enum.js';
 import { User } from './user.type.js';
 
 export type Offer = {
   title: string;
   description: string;
+  typeCity: string;
   postDate: Date;
   image: string;
-  type: OfferType
-  price: number;
+  premium: boolean;
+  rating: number;
+  typeOfProperty: string;
   categories: Category[];
+  price: number;
+  rooms: number;
+  guests: number;
+  commentsNumber: number;
+  coordinate: number;
   user: User;
 }
